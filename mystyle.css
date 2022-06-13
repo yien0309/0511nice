@@ -1,0 +1,59 @@
+@charset "UTF-8";
+.container {
+	width: 1000px;
+	padding-right: auto;
+	padding-left: auto;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+body header h1 {
+	color: #907A51;
+	text-align: center;
+	font-size: 41px;
+}
+.ima {
+    background-image: url(potato/img5.jpeg);
+    height: 393px;
+    background-size: cover;
+    background-position: 96% 43%;
+    border-radius: 30px;
+}
+article ul li {
+    width: 14%;
+    margin-right: auto;
+    margin-left: auto;
+}
+body header {
+	margin-left: 0px;
+	text-align: center;
+}
+nav a:link {
+	color: #C07304;
+	text-decoration: none;
+}
+nav  a:visited {
+	color: #E47D7F;
+}
+nav a:hover {
+	font-size: 33px;
+	color: #FFA107;
+}
+body header h1 {
+	color: #88712D;
+}
+article h3 {
+	background-color: #E7D082;
+	height: 30px;
+	border-radius: 13px;
+	/* [disabled]padding-top: 3px; */
+	padding-left: 14px;
+	line-height: 28px;
+}
+main article img {
+	border-radius: 19px;
+	margin-left: 26px;
+}
+body main article {
+	text-align: center;
+}
